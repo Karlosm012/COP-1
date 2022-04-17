@@ -1,4 +1,5 @@
-# COP-1
-These programs were made for COP 3502C on Fall 2021 in Arup Guha's class. 
-They were the projects we were given.
-Salon was the hardest for me because bitwise operator was pretty difficult for me to grasp doing it in code, not so much out of it.
+Multiple folders storing the different codes I made during my UCF Computer Science degree.
+
+COP 3502C I took with Arup Guha
+
+System Software I took with Euripedes Montagne
