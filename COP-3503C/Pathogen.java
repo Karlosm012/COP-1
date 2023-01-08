@@ -1,5 +1,3 @@
-// Backtracking program
-
 import java.io.*;
 import java.util.*;
 
